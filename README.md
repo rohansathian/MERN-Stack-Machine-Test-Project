@@ -48,8 +48,8 @@ npm install
 
 ```
 PORT=5000
-MONGO_URI=<your-mongodb-uri>
-JWT_SECRET=<your-jwt-secret>
+MONGO_URI=mongodb://127.0.0.1:27017/mern_machine_test
+JWT_SECRET=mystrongsecret123
 ```
 
 - Start the backend server:
